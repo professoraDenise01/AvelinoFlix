@@ -3,7 +3,6 @@
 
 
 <head>
-
     <link rel="stylesheet" href="styles.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,7 +15,7 @@
 
         rel="stylesheet">
 
-    <title>Guiminamflix</title>
+    <title>AvelinoFlix</title>
 
 </head>
 
@@ -24,7 +23,7 @@
 
 <body>
 
-    <header>GUIMINAMFLIX</header>
+    <header>AVELINOFLIX</header>
 
 
 
